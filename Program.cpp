@@ -1,6 +1,6 @@
 class Person {
 	private:
-		char sex;
+		bool sex;
 }
 
 int main()
